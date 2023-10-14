@@ -1,0 +1,1 @@
+This Project will have all flow : Loading Data from an CSV to Postgres DB ( as an OLTP DB ) and then transform data and put it in Oracle/an other Data Warehouse ( OLAP ) and then connect it to Tableau server and create an report and then move aggregate data ( week-wise ) to an Document DB in JSON Format.
